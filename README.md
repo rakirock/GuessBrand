@@ -1,4 +1,0 @@
-GuessBrand
-==========
-
-Guess the brand
